@@ -1,0 +1,36 @@
+{
+  "eyebrow": "OUR PURPOSE",
+  "title": "Traditional food. A place at today’s table.",
+  "intro": "Dharmik Foods exists to make traditional foods easier to recognise, understand, and bring back to everyday meals. We bring familiar staples and clear food information together so that choosing what goes into your kitchen feels simple and considered.",
+  "definition_title": "Traditional food is living knowledge.",
+  "definition": "Traditional food is the everyday knowledge that connects ingredients, places, seasons, and ways of cooking. It lives in a family’s ragi porridge, a regional millet dish, a patiently fermented batter, and the small habits passed from one kitchen to another. Its value lies in the skills, variety, and cultural memory we can continue to use today.",
+  "story_title": "A future with room for our food roots.",
+  "story_paragraphs": [
+    "Many of us recognise the dishes our families made, yet feel less certain about the grains, preparation methods, and ingredients behind them. Busy routines can make those familiar foods feel harder to reach.",
+    "We believe that reconnecting with traditional food begins with practical choices: knowing the name of a grain, reading an ingredient list, learning how to store it, and making space for it in a meal you already enjoy.",
+    "That is the purpose of Dharmik Foods: to give traditional staples a clear, useful place in a modern kitchen. Our aim is to encourage curiosity and confidence, one ingredient and one meal at a time."
+  ],
+  "why_title": "Why bring tradition back?",
+  "why_intro": "Because everyday food carries more than a recipe. It carries knowledge worth practising and sharing.",
+  "reasons": [
+    {"title": "Keep kitchen knowledge alive", "text": "Regional recipes, preparation methods, and ingredient names stay meaningful when we use them. Cooking and sharing them helps the next generation inherit more than a memory."},
+    {"title": "Welcome more variety", "text": "Exploring different grains, nuts, seeds, and pantry staples gives us more possibilities at the table. Millets are one part of that wider food story, alongside the foods that already suit your routine."},
+    {"title": "Remember the place behind the plate", "text": "Food traditions help us understand how ingredients connect with regional tastes, seasons, and ways of life. That connection gives familiar meals a richer story."},
+    {"title": "Make everyday cooking approachable", "text": "A return to traditional food can start small: one grain in a familiar recipe, one thoughtfully chosen staple, or a conversation about how a dish was made at home."}
+  ],
+  "approach_title": "How we put that purpose into practice.",
+  "approach": [
+    {"title": "Start with recognisable ingredients", "text": "We make grains, nuts, pantry staples, and simple drinks easy to explore, with categories that help you find a useful place to begin."},
+    {"title": "Make the useful details visible", "text": "Ingredients, allergens, pack sizes, nutrition information, origin, and storage belong where you can find them: on the product page."},
+    {"title": "Encourage understanding", "text": "We explain traditional ingredients in everyday language and encourage you to explore regional recipes, family knowledge, and preparation guidance."},
+    {"title": "Keep choice personal and informed", "text": "Our collections help you browse by routine. We encourage checking the label and your own dietary needs, and we do not present food as a treatment for a health condition."}
+  ],
+  "promise_title": "Our guiding commitment",
+  "promise": "Make traditional food easier to understand, easier to choose, and easier to include in everyday life—with clear information and respect for the knowledge behind it.",
+  "closing_title": "Start with one ingredient. Make it part of your story.",
+  "closing_text": "Find a familiar staple, try a regional grain, or ask someone at home how they used to cook it. A living food tradition begins with the next meal.",
+  "sources": [
+    {"label": "FAO: the place of millets in food diversity", "url": "https://www.fao.org/millets-2023/about/"},
+    {"label": "FSSAI: millets and Indian culinary heritage", "url": "https://fssai.gov.in/upload/EATRIGHTINDIA/Standards.pdf"}
+  ]
+}

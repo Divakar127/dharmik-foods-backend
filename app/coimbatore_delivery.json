@@ -1,0 +1,265 @@
+{
+  "scope": "Coimbatore city postal areas; outer district towns are not automatically included",
+  "sources": [
+    "https://www.indiapost.gov.in/VAS/DOP_PDFFiles/FunctionalPOs.pdf",
+    "https://tin.tin.proteantech.in/pan/servlet/AOSearch?city=COIMBATORE",
+    "https://www.pincodesinfo.in/district/coimbatore"
+  ],
+  "areas": [
+    {
+      "pincode": "641001",
+      "label": "Coimbatore",
+      "enabled": true
+    },
+    {
+      "pincode": "641002",
+      "label": "Coimbatore",
+      "enabled": true
+    },
+    {
+      "pincode": "641003",
+      "label": "Coimbatore",
+      "enabled": true
+    },
+    {
+      "pincode": "641004",
+      "label": "Coimbatore",
+      "enabled": true
+    },
+    {
+      "pincode": "641005",
+      "label": "Coimbatore",
+      "enabled": true
+    },
+    {
+      "pincode": "641006",
+      "label": "Coimbatore",
+      "enabled": true
+    },
+    {
+      "pincode": "641007",
+      "label": "Coimbatore",
+      "enabled": true
+    },
+    {
+      "pincode": "641008",
+      "label": "Coimbatore",
+      "enabled": true
+    },
+    {
+      "pincode": "641009",
+      "label": "Coimbatore",
+      "enabled": true
+    },
+    {
+      "pincode": "641010",
+      "label": "Coimbatore",
+      "enabled": true
+    },
+    {
+      "pincode": "641011",
+      "label": "Coimbatore",
+      "enabled": true
+    },
+    {
+      "pincode": "641012",
+      "label": "Coimbatore",
+      "enabled": true
+    },
+    {
+      "pincode": "641013",
+      "label": "Coimbatore",
+      "enabled": true
+    },
+    {
+      "pincode": "641014",
+      "label": "Coimbatore",
+      "enabled": true
+    },
+    {
+      "pincode": "641015",
+      "label": "Coimbatore",
+      "enabled": true
+    },
+    {
+      "pincode": "641016",
+      "label": "Coimbatore",
+      "enabled": true
+    },
+    {
+      "pincode": "641017",
+      "label": "Coimbatore",
+      "enabled": true
+    },
+    {
+      "pincode": "641018",
+      "label": "Coimbatore",
+      "enabled": true
+    },
+    {
+      "pincode": "641019",
+      "label": "Coimbatore",
+      "enabled": true
+    },
+    {
+      "pincode": "641020",
+      "label": "Coimbatore",
+      "enabled": true
+    },
+    {
+      "pincode": "641021",
+      "label": "Coimbatore",
+      "enabled": true
+    },
+    {
+      "pincode": "641022",
+      "label": "Coimbatore",
+      "enabled": true
+    },
+    {
+      "pincode": "641023",
+      "label": "Coimbatore",
+      "enabled": true
+    },
+    {
+      "pincode": "641024",
+      "label": "Coimbatore",
+      "enabled": true
+    },
+    {
+      "pincode": "641025",
+      "label": "Coimbatore",
+      "enabled": true
+    },
+    {
+      "pincode": "641026",
+      "label": "Coimbatore",
+      "enabled": true
+    },
+    {
+      "pincode": "641027",
+      "label": "Coimbatore",
+      "enabled": true
+    },
+    {
+      "pincode": "641028",
+      "label": "Coimbatore",
+      "enabled": true
+    },
+    {
+      "pincode": "641029",
+      "label": "Coimbatore",
+      "enabled": true
+    },
+    {
+      "pincode": "641030",
+      "label": "Coimbatore",
+      "enabled": true
+    },
+    {
+      "pincode": "641031",
+      "label": "Coimbatore",
+      "enabled": true
+    },
+    {
+      "pincode": "641032",
+      "label": "Coimbatore",
+      "enabled": true
+    },
+    {
+      "pincode": "641033",
+      "label": "Coimbatore",
+      "enabled": true
+    },
+    {
+      "pincode": "641034",
+      "label": "Coimbatore",
+      "enabled": true
+    },
+    {
+      "pincode": "641035",
+      "label": "Coimbatore",
+      "enabled": true
+    },
+    {
+      "pincode": "641036",
+      "label": "Coimbatore",
+      "enabled": true
+    },
+    {
+      "pincode": "641037",
+      "label": "Coimbatore",
+      "enabled": true
+    },
+    {
+      "pincode": "641038",
+      "label": "Coimbatore",
+      "enabled": true
+    },
+    {
+      "pincode": "641039",
+      "label": "Coimbatore",
+      "enabled": true
+    },
+    {
+      "pincode": "641041",
+      "label": "Coimbatore",
+      "enabled": true
+    },
+    {
+      "pincode": "641042",
+      "label": "Coimbatore",
+      "enabled": true
+    },
+    {
+      "pincode": "641043",
+      "label": "Coimbatore",
+      "enabled": true
+    },
+    {
+      "pincode": "641044",
+      "label": "Coimbatore",
+      "enabled": true
+    },
+    {
+      "pincode": "641045",
+      "label": "Coimbatore",
+      "enabled": true
+    },
+    {
+      "pincode": "641046",
+      "label": "Coimbatore",
+      "enabled": true
+    },
+    {
+      "pincode": "641047",
+      "label": "Coimbatore",
+      "enabled": true
+    },
+    {
+      "pincode": "641048",
+      "label": "Coimbatore",
+      "enabled": true
+    },
+    {
+      "pincode": "641049",
+      "label": "Coimbatore",
+      "enabled": true
+    },
+    {
+      "pincode": "641050",
+      "label": "Coimbatore",
+      "enabled": true
+    },
+    {
+      "pincode": "641051",
+      "label": "Coimbatore",
+      "enabled": true
+    },
+    {
+      "pincode": "641062",
+      "label": "Coimbatore",
+      "enabled": true
+    }
+  ]
+}
